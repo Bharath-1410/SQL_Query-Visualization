@@ -1,1 +1,1 @@
-# SQL_Query-Visualization
+# SQL-Visualization
